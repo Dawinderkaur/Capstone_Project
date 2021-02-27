@@ -1,0 +1,5 @@
+**IoT Based Garage Door Opener**
+
+The door plays an important role in home security. So, providing a secured garage door system for houses has become necessary. Sometime people left their garage door open and left their home in hurry. so to prevent theft or robbery we are designing this project. 
+
+This project deals with opening and closing of garage doors by giving commands through webpage which is coonected to cloud service through ESP32 WIFI module. The opening and closing of garage door can also be done through keypad by entering password. The information of opening of garage door will also be available on mobile phone via SMS using GSM Module SIM800L v2. we use IR sensor to sense the presence of any obstacle in way of door while closing. One more IR sensor is added to provide information that garage is vacant or occupied. 
